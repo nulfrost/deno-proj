@@ -14,3 +14,7 @@ removing, or moving an island in the `islands` directory, run:
 ```
 fresh manifest
 ```
+
+playing around with deno / fresh
+
+https://nulfrost-deno-proj.deno.dev/
